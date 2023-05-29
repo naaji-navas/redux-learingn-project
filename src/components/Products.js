@@ -52,7 +52,7 @@ const Products = () => {
   });
   return (
     <div className="App mx-5">
-      <h1 className="text-2xl font-bold mt-2">Cart</h1>
+      <h1 className="text-2xl font-bold mt-2">Products Dashboard</h1>
       <div className="row my-5">{cards}</div>
     </div>
   );
